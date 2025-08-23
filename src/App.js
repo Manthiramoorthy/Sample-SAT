@@ -6,10 +6,11 @@ function App() {
     <div className="App">
       <h1>Hello word</h1>
       <img src={logo} className="App-logo" alt="logo" />
-      <ol>
-        <li>Item 1</li>
-        <li>Item 2</li>
-      </ol>
+      
+      <img src={logo} className="App-logo" alt="logo" />
+      <p>
+        Edit <code>src/App.js</code> and save to reload.
+      </p>
     </div>
   );
 }
